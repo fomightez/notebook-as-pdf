@@ -1,6 +1,6 @@
 # Jupyter Notebooks as PDF
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/notebook-as-pdf/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/notebook-as-pdf/HEAD)
 
 This Jupyter notebook extension allows you to save your notebook as a PDF.
 
