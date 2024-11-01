@@ -1,3 +1,6 @@
+notebook==6.*
+jupyter-server==1.*
+jupyterlab==3.*
 notebook-as-pdf==0.5.0
 numpy
 matplotlib
